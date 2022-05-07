@@ -5,3 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 It May just work out after all!
+It's going good so far, So far so good!
